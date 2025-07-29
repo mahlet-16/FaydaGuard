@@ -6,7 +6,7 @@ AI-Powered National Cybersecurity & Digital ID Protection
 👥 Contributors
 - Mahlet Amenu   
 - Eliyanan Belay
-- Miheret Tsegaye 
+- Fikerte Amenu 
 
 
 
